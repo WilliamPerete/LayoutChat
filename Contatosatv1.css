@@ -129,7 +129,11 @@
     height: 1080px;
     background: linear-gradient(180deg, #F3F3FB 0%, #FDFBFD 100%);
 }
+.Nika{
+    margin-top: 109px;
+}
 .Nika3{
+    
     width: 520px;
     height: 85px;
     background: linear-gradient(90.54deg, #60A9F6 0%, #2A8BF2 100%);
@@ -176,13 +180,10 @@
 }
 .Nika6{
     width: 180px;
-height: 90px;
-
-background: linear-gradient(90.54deg, #60A9F6 0%, #2A8BF2 100%);
-/* Shadow Block Message My Opponent */
-
-box-shadow: 10px 10px 25px rgba(42, 139, 242, 0.1), 15px 15px 35px rgba(42, 139, 242, 0.05), 10px 10px 50px rgba(42, 139, 242, 0.1);
-border-radius: 0px 10px 10px 10px;
+    height: 90px;   
+    background: linear-gradient(90.54deg, #60A9F6 0%, #2A8BF2 100%);
+    box-shadow: 10px 10px 25px rgba(42, 139, 242, 0.1), 15px 15px 35px rgba(42, 139, 242, 0.05), 10px 10px 50px rgba(42, 139, 242, 0.1);
+    border-radius: 0px 10px 10px 10px;
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
@@ -190,4 +191,78 @@ border-radius: 0px 10px 10px 10px;
     line-height: 26px;
     text-transform: uppercase;
     color: #FFFFFF;
+}
+.Nika7{
+    margin-left: 556px;
+    width: 200px;
+    height: 80px;
+    background: #FFFFFF;
+    border: 1px solid rgba(112, 124, 151, 0.25);
+    border-radius: 10px 10px 0px 10px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px 25px rgba(112, 124, 151, 0.05), 15px 15px 35px rgba(112, 124, 151, 0.05);
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+}
+.icons{
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: #2A8BF2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:auto ;
+}
+.dime{
+    width: 700px;
+    height: 70px;
+    border: 1px solid black;
+    display: flex; 
+    margin-left: 38px;
+    margin-top: 280px;
+    border-radius: 2px;
+}
+.icons1{
+    margin-left: 400px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: auto;  
+}
+.icons2{
+    margin-left: 20px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: #2A8BF2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: auto;  
+}
+.p{
+    margin-top: 20px;
+    width: 191px;
+height: 23px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+text-transform: capitalize;
+
+color: rgba(112, 124, 151, 0.5);
+
 }
